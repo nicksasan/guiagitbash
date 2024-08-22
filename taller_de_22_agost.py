@@ -24,7 +24,7 @@ elif opcion ==2:
     
 elif opcion ==3:
     c = a * b
-    print("La multiplicacion es: ", c)
+    print("La multiplicacion es xd: ", c)
     
 elif opcion ==4:
     print("baybay uwu")
