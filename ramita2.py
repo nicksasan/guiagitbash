@@ -3,5 +3,5 @@
 a = int(input("Numero: "))
 b = int(input("Numero: "))
 
-c = a + b
+c = a / b
 print("Resultado: ")
