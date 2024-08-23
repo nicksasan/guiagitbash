@@ -1,21 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Codigo para sumar 3 numeros.
 numero7 = int(input("Digite el primer numero: "))
 numero8 = int(input("Digite el segundo numero: "))
