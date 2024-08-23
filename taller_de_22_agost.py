@@ -35,3 +35,5 @@ elif opcion ==4:
 
 else:
     "Salga de la opcion"
+    
+print("uuwuwuwuw")
